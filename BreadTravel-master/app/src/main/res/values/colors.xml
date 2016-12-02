@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#48B8C7</color>
+    <color name="colorPrimaryDark">#48B8C7</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFffff</color>
+
+    <color name="login_unable_bg">#ffcdced0</color>
+    <color name="color_white">#FFFFFF</color>
+
+    <color name="color_indicator_force">#e6dbc1</color>
+    <color name="color_indicator_bg">#F4EDDF</color>
+
+    <color name="color_home_item_bg">#FBF7ED</color>
+
+    <color name="color_home_title_bg">#48B8C7</color>
+    <color name="color_drawer_title_bg_normal">#B4E4EA</color>
+    <color name="myPrimaryDarkColor">#ffcd8221</color>
+
+
+</resources>
